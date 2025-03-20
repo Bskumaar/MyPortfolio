@@ -259,3 +259,22 @@ h3 {
 }
 
 
+/*tob button*/
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #ff5733; /* Change this to your desired color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.back-to-top:hover {
+  color: white;
+  background-color: #c70039; /* Darker shade for hover effect */
+}
